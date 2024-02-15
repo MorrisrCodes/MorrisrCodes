@@ -1,4 +1,4 @@
-[![MasterHead](https://www.icegif.com/wp-content/uploads/2023/12/icegif-95.gif)](https://www.icegif.com/wp-content/uploads/2023/12/icegif-95.gif)
+
 <h1 align="center">Hi 👋, I'm Ryan Morris</h1>
 <h3 align="center">A highly motivated CS student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
