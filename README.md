@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **morrisrcodes@gmail.com**
 
-- 📄 Know about my experiences https://bit.ly/ResumeMorris
+- 📄 Know about my experiences [My Resume](https://bit.ly/ResumeMorr)
 
 - ⚡ Fun fact **I speak three languages fluently: English, Spanish, and Python.**
 
