@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morrisrcodes&label=Profile%20views&color=0e75b6&style=flat" alt="morrisrcodes" /> </p>
 
-- 🔭 I’m currently working on **Discord Bot**
+- 🔭 I’m currently working on **ML Weekend Planner**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Django & SQL**
 
 - 👯 I’m looking to collaborate on [Friendship Foliage](https://github.com/MorrisrCodes/FriendshipFoliage)
 
-- 📫 How to reach me **morrisrcodes@gmail.com**
+- 📫 How to reach me **[My LinkedIn](https://www.linkedin.com/in/morrisrcodes/)**
 
 - 📄 Know about my experiences [My Resume](https://bit.ly/ResumeMorr)
 
